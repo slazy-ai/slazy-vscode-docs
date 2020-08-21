@@ -4,7 +4,7 @@ Slazy for Visual Studio Code is an extension that makes it more natural to work 
 
 Slazy creates a browsable index from your project contents such as git commit comments, documentation and code symbols, then allows you to browse and navigate through all the assets related to a keyword from the index.
 
-**Note : The development is still at an early stage and some features are not fully operational especially on project with lots of commits.**
+**Note : The development is still at an early stage and some features are not fully operational especially on projects with lots of commits.**
 
 Slazy should work with any language supported by Visual Studio Code, and has been tested with : Javascript, Typescript, Python and Java.
 
@@ -20,8 +20,8 @@ Benefits :
 - Automatically Create a sorted index for the most used terms in your code base : commits, symbols, docs
 - Mark index terms as irrelevant or important
 - View and navigate to symbols associated to terms
-- Savigate to related commits
-- Search term from index
+- Navigate to related commits
+- Filter indexed terms
 - Index commits from tags formatted with brackets like [fix], [issue], [core]....
 
 The illustration below was made with Slazy running on  [material-ui](https://github.com/mui-org/material-ui) source code.
